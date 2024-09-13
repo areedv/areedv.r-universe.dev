@@ -1,9 +1,5 @@
 [
     {
-        "package": "sship",
-        "url": "https://github.com/rapporteket/sship"
-    },
-    {
         "package": "rapporteket",
         "url": "https://github.com/rapporteket/rapporteket"
     },
