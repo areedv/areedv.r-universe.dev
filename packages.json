@@ -6,5 +6,9 @@
     {
         "package": "rapbase",
         "url": "https://github.com/rapporteket/rapbase"
+    },
+    {
+        "package": "bilfar",
+        "url": "https://github.com/areedv/bilfar"
     }
 ]
